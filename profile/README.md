@@ -1,4 +1,4 @@
-## Hi Geeks 👋
+## Hey Geeks 👋
 <div align="center;">
     <img src="https://raw.githubusercontent.com/sankalp475/banner/main/HouseOfSpritis.png" align="center" style="width: 100%;   " />
 </div>  
